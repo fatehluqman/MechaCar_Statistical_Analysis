@@ -5,6 +5,7 @@ AutosRUs’ newest prototype, the MechaCar, is suffering from production trouble
 *Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 *Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
+
 ## Linear Regression to Predict MPG
 ![Linear Regression to Predict MPG](https://user-images.githubusercontent.com/62673123/136492231-31e2a7a8-9ee9-474c-a49a-807e0bf86e98.PNG)
 
