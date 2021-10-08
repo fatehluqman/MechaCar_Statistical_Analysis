@@ -29,6 +29,7 @@ The purpose of this analysis was to determine if all manufacturing lots and each
 ![Total](https://user-images.githubusercontent.com/62673123/136492289-282da720-a34a-4129-959f-c695d0c55235.PNG)
 
 The test showed that the sample means, and p-values are as follows:
+
 ![Lot1](https://user-images.githubusercontent.com/62673123/136492298-3455c102-3a0c-45c8-9464-98b15f9b8508.PNG)
 
 Lot 1 has a sample mean of 1500, and a p-value of 1, we cannot reject the null hypothesis that there is no statistical difference between the sample mean and the population mean.
